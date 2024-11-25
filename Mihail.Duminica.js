@@ -73,7 +73,7 @@ const impar =  [1,3,5];
 const reuniune = [2,4,6, ...impar];  // aici array ul reuniune se formeaza prin datele 2,4,6 si datele din array ul impar
 console.log(reuniune); // returneaza [2,4,6,1,3,5]
 
-//Punctul 1.4 In java script orice poate fi obiect, de la datele predefinite cum ar fi (boolean, number, string daca sunt definine cu "new"), arrays, functions, math, objects sunt intotdeauna obiecte
+//Punctul 1.4 In javascript orice poate fi obiect, de la datele predefinite cum ar fi (boolean, number, string daca sunt definine cu "new"), arrays, functions, math, objects sunt intotdeauna obiecte
 //Objects sunt o colectie de valori denumite, cu proprietati diferite, 
 // Obiectele pot fi definite literl sau prin folosirea metodei new Obeject()
 
